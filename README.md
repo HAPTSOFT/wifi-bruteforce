@@ -94,6 +94,6 @@
 |Debug mode|Opening the new console with all logs (auto choosing log level 2)|
 |Log level|Setting the detail level of logs (choosing the 'Debug mode' auto set to level 2)|
 
-## Have issues? Watch the video tutorial how to use program [click there](#wi-fi-bruteforce)
+## Have issues? Watch the video tutorial how to use program [click there](https://www.youtube.com/watch?v=270AQHkKvek)
 
 
